@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **.NET, C# and Javascript and anything tech-related**
 
-- 📫 For business inquiries and further questions you can contact me at **vikinik01@abv.bg**
+- 📫 For business inquiries and further questions you can contact me at **victorio.nikolaev25@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
