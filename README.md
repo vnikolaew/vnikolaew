@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Victorio Nikolaev</h1>
-<h3 align="center">And I'm a passionate and enthusiastic Backend Software Engineer</h3>
+<h3 align="center">And I'm a 22-years old skilled and adept Full-Stack Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vnikolaew&label=Profile%20views&color=0e75b6&style=flat" alt="vnikolaew" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vnikolaew?tab=repositories](https://github.com/vnikolaew?tab=repositories)
 
-- 💬 Ask me about **.NET, C# and Javascript and anything tech-related**
+- 💬 Ask me about **Next.js, .NET, C# and Javascript / Typescript and anything tech-related**
 
 - 📫 For business inquiries and further questions you can contact me at **victorio.nikolaev25@gmail.com**
 
@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/vnikolaew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vnikolaew" height="30" width="40" /></a>
 <a href="https://fb.com/victorio.nikolaev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="victorio.nikolaev" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/victorio-nikolaev-384a43298/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in.svg" alt="victorio.nikolaev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
