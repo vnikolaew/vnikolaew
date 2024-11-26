@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vnikolaew&label=Profile%20views&color=0e75b6&style=flat" alt="vnikolaew" /> </p>
 
-- 🌱 I’m currently learning **ASP.NET Core, the .NET eco-system as well as some SQL & NoSQL technologies**
+- 🚀 I'm a Full Stack Software Engineer with expertise in React, NextJS, C#, .NET, and SQL/NoSQL database development. Passionate about building scalable and efficient web applications, I enjoy crafting seamless user experiences and robust back-end systems. Let's collaborate and bring your vision to life!
 
 - 👨‍💻 All of my projects are available at [https://github.com/vnikolaew?tab=repositories](https://github.com/vnikolaew?tab=repositories)
 
-- 💬 Ask me about **Next.js, .NET, C# and Javascript / Typescript and anything tech-related**
+- 💬 Ask me about **React, Next.js, Javascript / Typescript, C#,.NET and anything tech-related**
 
 - 📫 For business inquiries and further questions you can contact me at **victorio.nikolaev25@gmail.com**
 
