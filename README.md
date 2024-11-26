@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vnikolaew&label=Profile%20views&color=0e75b6&style=flat" alt="vnikolaew" /> </p>
 
-- 🚀 I'm a Full Stack Software Engineer with expertise in React, NextJS, C#, .NET, and SQL/NoSQL database development. Passionate about building scalable and efficient web applications, I enjoy crafting seamless user experiences and robust back-end systems. Let's collaborate and bring your vision to life!
+- 🚀 I'm a Full Stack Software Engineer with expertise in **React, NextJS, C#, .NET, and SQL/NoSQL database development**. Passionate about building scalable and efficient web applications, I enjoy crafting seamless user experiences and robust back-end systems. Let's collaborate and bring your vision to life!
 
 - 👨‍💻 All of my projects are available at [https://github.com/vnikolaew?tab=repositories](https://github.com/vnikolaew?tab=repositories)
 
